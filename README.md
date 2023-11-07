@@ -3,4 +3,4 @@ Everything related to quantum algorithms.
 
 Contains:
 
--DNA_Grover.ipynb: Finds DNA chains, formed by specific combinations of four nitrogen bases, using the Grover's solutions search algorithm. Preliminary and untested. 
+-dna_grover.ipynb: Finds DNA chains, formed by specific combinations of four nitrogen bases, using the Grover's solution-search algorithm. Preliminary and not fully tested. 
